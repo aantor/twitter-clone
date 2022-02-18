@@ -9,6 +9,11 @@ Twitter - A social media application
 https://twitter-clone-two-lovat.vercel.app/
 
 
+
+## Screenshots
+
+![App Screenshot](https://github.com/aantor/assets/blob/main/Screenshot_2.png?text=App+Screenshot+Here)
+
 ## Tech Stack
 
 **Client:** React, NextJs, Tailwindcss
@@ -28,13 +33,6 @@ If you have any feedback, please reach out to me at antorinfo@gmail.com
 ## Authors
 
 - [@antor](https://www.github.com/aantor)
-
-
-## Screenshots
-
-![App Screenshot](https://github.com/aantor/assets/blob/main/Screenshot_2.png?text=App+Screenshot+Here)
-
-
 
 
 # Next.js + Tailwind CSS Example
