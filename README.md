@@ -1,3 +1,42 @@
+
+# Twitter Clone
+
+Twitter - A social media application
+
+
+## Demo
+
+https://twitter-clone-two-lovat.vercel.app/
+
+
+## Tech Stack
+
+**Client:** React, NextJs, Tailwindcss
+
+**Server:** Firebase, NextAuth
+
+
+## 🚀 About Me
+I'm a full stack developer...
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at antorinfo@gmail.com
+
+
+## Authors
+
+- [@antor](https://www.github.com/aantor)
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/aantor/assets/blob/main/Screenshot_2.png?text=App+Screenshot+Here)
+
+
+
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
